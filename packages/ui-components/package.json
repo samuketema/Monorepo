@@ -1,0 +1,9 @@
+{
+  "name": "@monorepo/ui-components",
+  "version": "1.0.0",
+  "main": "index.jsx",
+  "type": "module",
+  "dependencies": {
+    "react": "^18.2.0"
+  }
+}

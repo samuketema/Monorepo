@@ -1,0 +1,11 @@
+{
+  "name": "@monorepo/feature-y",
+  "version": "1.0.0",
+  "main": "index.jsx",
+  "type": "module",
+  "dependencies": {
+    "@monorepo/ui-components": "*",
+    "@monorepo/utils": "*",
+    "react": "^18.2.0"
+  }
+}
